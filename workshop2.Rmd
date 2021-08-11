@@ -21,7 +21,5 @@ survey <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tid
 
 
 
-
-
-
 ```
+#changes to be done
